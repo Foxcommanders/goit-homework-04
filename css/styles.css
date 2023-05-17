@@ -217,10 +217,6 @@ body {
 
 /* Activity */
 
-.activity {
-
-}
-
 .activity .list {
   display: flex;
   gap: 24px;
